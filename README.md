@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">Data Engineer | Cloud Data Platforms | Backend & Data Applications</h3>
+<h3 align="center">Data Engineer | Cloud Data Platforms | Building Data-Driven Applications</h3>
 
 <p align="center">
 Python • SQL • Apache Spark • AWS • Snowflake • Airflow • FastAPI • Docker
@@ -9,7 +9,7 @@ Python • SQL • Apache Spark • AWS • Snowflake • Airflow • FastAPI �
 
 ## 🚀 About Me
 I design and build scalable data pipelines and data-driven applications using Python, SQL, and cloud technologies.  
-I focus on transforming raw data into clean, reliable, analytics-ready datasets and developing backend services that power real-world applications.
+I transform raw data into clean, reliable, analytics-ready datasets and develop backend services that power real-world applications.
 
 ---
 
@@ -41,11 +41,21 @@ AWS (S3, EMR, Glue, Lambda), Azure
 **Databases & Warehouses**  
 PostgreSQL, MySQL, Snowflake, Amazon Redshift  
 
+**Orchestration & Scheduling**  
+Apache Airflow  
+
+**Streaming & Messaging**  
+Apache Kafka (Basics)  
+
 **Backend & APIs**  
 FastAPI, Node.js, REST APIs  
 
 **DevOps & Tooling**  
 Git, GitHub Actions, Docker  
+
+---
+
+💡 Focused on building reliable data pipelines, analytics-ready models, and scalable backend services.
 
 ---
 
