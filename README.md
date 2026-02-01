@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">Data Engineer | Backend & Data Applications</h3>
+<h3 align="center">Data Engineer | Cloud Data Platforms | Backend & Data Applications</h3>
 
 <p align="center">
 Python • SQL • Apache Spark • AWS • Snowflake • Airflow • FastAPI • Docker
@@ -8,8 +8,8 @@ Python • SQL • Apache Spark • AWS • Snowflake • Airflow • FastAPI �
 ---
 
 ## 🚀 About Me
-I build scalable data pipelines and data-driven applications using Python, SQL, and cloud technologies.  
-I enjoy transforming raw data into clean, reliable datasets and building backend services that power applications.
+I design and build scalable data pipelines and data-driven applications using Python, SQL, and cloud technologies.  
+I focus on transforming raw data into clean, reliable, analytics-ready datasets and developing backend services that power real-world applications.
 
 ---
 
@@ -29,35 +29,40 @@ I enjoy transforming raw data into clean, reliable datasets and building backend
 ## 🧩 What I Work With
 
 **Data Engineering**  
-ETL / ELT, Batch & Incremental Processing, Data Modeling, Data Validation, Data Quality  
+ETL / ELT Pipelines, Data Ingestion, Data Transformation, Data Cleaning,  
+Batch & Incremental Processing, Data Modeling, Data Validation, Data Quality  
 
-**Big Data**  
+**Big Data Processing**  
 Apache Spark, PySpark, Spark SQL  
 
-**Cloud**  
-AWS (S3, EMR, Glue), Azure  
+**Cloud Platforms**  
+AWS (S3, EMR, Glue, Lambda), Azure  
 
-**Databases / Warehouses**  
-PostgreSQL, MySQL, Snowflake, Redshift  
+**Databases & Warehouses**  
+PostgreSQL, MySQL, Snowflake, Amazon Redshift  
 
 **Backend & APIs**  
 FastAPI, Node.js, REST APIs  
 
-**DevOps**  
+**DevOps & Tooling**  
 Git, GitHub Actions, Docker  
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 🔹 **Employee Data Engineering Pipeline**  
+End-to-end ETL pipeline for cleaning, validating, and transforming employee datasets.  
 https://github.com/harishsure007/employee-data-engineering-pipeline  
 
 🔹 **JobflowAI**  
+AI-powered job assistant for resume enhancement, matching, and document generation.  
 https://github.com/harishsure007/Jobflowai  
 
 🔹 **SmartAutoApply**  
+Automation tool for streamlining job application workflows.  
 https://github.com/harishsure007/SmartAutoApply  
 
 🔹 **Modern Data Engineering with Snowflake**  
+SQL-based data modeling and transformations using Snowflake.  
 https://github.com/harishsure007/modern-data-engineering-snowflake  
