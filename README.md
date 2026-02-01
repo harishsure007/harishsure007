@@ -1,16 +1,19 @@
-# Hi 👋 I'm Harish  
+<h1 align="center">Hi 👋, I'm Harish</h1>
+<h3 align="center">Data Engineer | Backend & Data Applications</h3>
 
+<p align="center">
+Python • SQL • Apache Spark • AWS • Snowflake • Airflow • FastAPI • Docker
+</p>
+
+---
+
+## 🚀 About Me
 I build scalable data pipelines and data-driven applications using Python, SQL, and cloud technologies.  
 I enjoy transforming raw data into clean, reliable datasets and building backend services that power applications.
 
 ---
 
-### ⭐ Core Skills  
-🚀 Python | SQL | Apache Spark | AWS | Snowflake | Airflow | FastAPI | Docker
-
----
-
-## 🧠 Skills (Highlighted)
+## 🧠 Skill Highlights
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
@@ -23,73 +26,38 @@ I enjoy transforming raw data into clean, reliable datasets and building backend
 
 ---
 
-## 🧩 Skill Stack
+## 🧩 What I Work With
 
-### 🏗 Data Engineering (Core)
-ETL / ELT Pipelines, Data Ingestion, Data Transformation, Data Cleaning,  
-Batch Processing, Incremental Processing, CDC, Data Modeling,  
-Data Validation, Data Quality Checks, Data Profiling,  
-Schema Design, Partitioning, Indexing  
+**Data Engineering**  
+ETL / ELT, Batch & Incremental Processing, Data Modeling, Data Validation, Data Quality  
 
-### 💻 Programming & Querying
-Python, SQL, Bash  
-
-### ⚡ Big Data & Processing
+**Big Data**  
 Apache Spark, PySpark, Spark SQL  
 
-### ☁ Cloud Platforms
-AWS (S3, EMR, Glue, Lambda), Azure  
+**Cloud**  
+AWS (S3, EMR, Glue), Azure  
 
-### 🗄 Data Storage & Warehouses
-PostgreSQL, MySQL, Amazon Redshift, Snowflake  
+**Databases / Warehouses**  
+PostgreSQL, MySQL, Snowflake, Redshift  
 
-### 🏞 Data Lakes & Formats
-Amazon S3, Azure Data Lake, CSV, JSON, Parquet  
+**Backend & APIs**  
+FastAPI, Node.js, REST APIs  
 
-### 🔁 Orchestration & Scheduling
-Apache Airflow  
-
-### 🔄 Streaming & Messaging
-Apache Kafka (Basics)  
-
-### 📈 Analytics Engineering
-Dimensional Modeling, Star Schema, Fact & Dimension Tables,  
-Aggregations, Window Functions  
-
-### 🧪 Data Testing & Reliability
-Row Count Checks, Null Checks, Duplicate Checks, Schema Validation  
-
-### 🔌 Backend & Data Applications
-FastAPI, Node.js, REST APIs, File Upload/Download  
-
-### ⚙ DevOps & Tooling
-Git, GitHub Actions, Docker, Linux  
+**DevOps**  
+Git, GitHub Actions, Docker  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 🔹 Employee Data Engineering Pipeline  
-End-to-end ETL pipeline for cleaning, validating, and transforming employee datasets using Python and SQL.  
-➡ https://github.com/harishsure007/employee-data-engineering-pipeline  
+🔹 **Employee Data Engineering Pipeline**  
+https://github.com/harishsure007/employee-data-engineering-pipeline  
 
-### 🔹 JobflowAI  
-AI-powered job assistant for resume enhancement, matching, and document generation.  
-➡ https://github.com/harishsure007/Jobflowai  
+🔹 **JobflowAI**  
+https://github.com/harishsure007/Jobflowai  
 
-### 🔹 SmartAutoApply  
-Automation tool to streamline job application workflows.  
-➡ https://github.com/harishsure007/SmartAutoApply  
+🔹 **SmartAutoApply**  
+https://github.com/harishsure007/SmartAutoApply  
 
-### 🔹 Modern Data Engineering with Snowflake  
-SQL-based data transformations and modeling using Snowflake.  
-➡ https://github.com/harishsure007/modern-data-engineering-snowflake  
-
----
-
-## 📌 Focus Areas
-- Building reliable data pipelines  
-- Analytics-ready data modeling  
-- Cloud data platforms  
-- Backend API development  
-- Data quality & monitoring  
+🔹 **Modern Data Engineering with Snowflake**  
+https://github.com/harishsure007/modern-data-engineering-snowflake  
