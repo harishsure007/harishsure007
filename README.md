@@ -13,15 +13,6 @@ I enjoy building data pipelines, working with datasets, and creating analytics-r
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, SQL, Bash  
-**Big Data:** Apache Spark, PySpark  
-**Cloud:** AWS, Azure  
-**Databases:** PostgreSQL, MySQL  
-**Warehouses:** Snowflake, Redshift  
-**Orchestration:** Airflow  
-**Tools:** Git, GitHub Actions, Docker
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
