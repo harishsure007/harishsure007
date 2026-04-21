@@ -1,85 +1,115 @@
-<h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">Data Engineer | Cloud Data Platforms | Building Data-Driven Applications</h3>
+# Hi, I'm Harish Sure 👋
 
-<p align="center">
-Python • SQL • Apache Spark • AWS • Snowflake • Airflow • FastAPI • Docker
-</p>
+### AML & Financial Crime ML Engineer
 
----
-
-## 🚀 About Me
-I design and build scalable data pipelines and data-driven applications using Python, SQL, and cloud technologies.  
-I transform raw data into clean, reliable, analytics-ready datasets and develop backend services that power real-world applications.
+AML and fraud risk professional with 3+ years of experience in banking and payments, focused on building ML-driven detection systems for production environments. I work across risk modeling, alert tuning, transaction monitoring, suspicious activity detection, KYC/CDD/EDD workflows, and compliance-aligned analytics.
 
 ---
 
-## 🧠 Skill Highlights
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-2C3E50?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## About Me
+- Building ML-driven fraud and AML detection systems
+- Experience in transaction monitoring and alert prioritization
+- Worked on SAR workflows and compliance analytics
+- Strong collaboration with compliance teams and investigators
+- Focused on real-time risk scoring and financial crime detection
 
 ---
 
-## 🧩 What I Work With
+## Core Skills
 
-**Data Engineering**  
-ETL / ELT Pipelines, Data Ingestion, Data Transformation, Data Cleaning,  
-Batch & Incremental Processing, CDC, Data Modeling, Data Validation, Data Quality  
+### AML & Compliance
+- Transaction Monitoring
+- Suspicious Activity Detection
+- OFAC / Sanctions Screening
+- KYC / CDD / EDD
+- SAR Filing
+- BSA / AML
+- FinCEN
+- FATF
+- CTR
+- Alert Disposition
+- Network Analysis
 
-**Big Data Processing**  
-Apache Spark, PySpark, Spark SQL  
+### Machine Learning & Analytics
+- XGBoost
+- Random Forest
+- Anomaly Detection
+- Risk Scoring
+- Feature Engineering
+- Graph Analytics
+- SMOTE
+- MLOps
+- Model Evaluation
 
-**Cloud Platforms**  
-AWS (S3, EMR, Glue, Lambda), Azure  
-
-**Databases & Warehouses**  
-PostgreSQL, MySQL, Snowflake, Amazon Redshift  
-
-**Orchestration & Scheduling**  
-Apache Airflow  
-
-**Streaming & Messaging**  
-Apache Kafka (Basics)  
-
-**Backend & APIs**  
-FastAPI, Node.js, REST APIs  
-
-**DevOps & Tooling**  
-Git, GitHub Actions, Docker  
+### Engineering & Platforms
+- Python
+- SQL
+- PySpark
+- Apache Kafka
+- Spark Streaming
+- FastAPI
+- AWS
+- Azure
+- Docker
+- Actimize
+- Quantexa
 
 ---
 
-💡 Focused on building reliable data pipelines, analytics-ready models, and scalable backend services.
+## Experience Highlights
+
+### Financial Crime ML Engineer — Western Union
+**Feb 2025 – Present | Atlanta, GA**
+- Built ML risk scoring models on 10M+ monthly transactions
+- Improved detection by ~30% vs rule-based systems
+- Reduced false positives by ~25%
+- Implemented OFAC screening with fuzzy matching
+- Applied graph analytics for mule network detection
+- Supported alert investigation and SAR workflows
+- Deployed sub-200ms real-time fraud scoring
+
+### Transaction Analytics Specialist — PNC Bank
+**Aug 2023 – Dec 2024 | Boston, MA**
+- Monitored 5M+ daily transactions in Actimize
+- Tuned detection scenarios and alert thresholds
+- Improved investigator throughput by ~30%
+- Integrated KYC/CDD/EDD into alert prioritization
+- Automated reporting using Python & SQL
+- Reduced manual AML workload by ~40%
+
+### Risk Analyst — Humana
+**Apr 2022 – Dec 2022 | India**
+- Performed anomaly detection on 1M+ claims
+- Built rule-based risk scoring models
+- Supported fraud/compliance analytics
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-🔹 **Employee Data Engineering Pipeline**  
-End-to-end ETL pipeline for cleaning, validating, and transforming employee datasets.  
-https://github.com/harishsure007/employee-data-engineering-pipeline  
+### Real-Time Fraud Alert System
+- ML scoring pipeline with sub-200ms latency
+- 87% recall
+- Graph-based entity resolution
+- Real-time suspicious activity detection
 
-🔹 **JobflowAI**  
-AI-powered job assistant for resume enhancement, matching, and document generation.  
-https://github.com/harishsure007/Jobflowai  
+### AML Transaction Monitoring System
+- Streaming pipeline for AML alerts
+- OFAC-aware risk classification
+- SAR drafting support (AI-assisted)
+- Full alert lifecycle tracking
 
-🔹 **SmartAutoApply**  
-Automation tool for streamlining job application workflows.  
-https://github.com/harishsure007/SmartAutoApply  
+---
 
-🔹 **Modern Data Engineering with Snowflake**  
-SQL-based data modeling and transformations using Snowflake.  
-https://github.com/harishsure007/modern-data-engineering-snowflake  
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/hari-su
+- Email: harisure054@gmail.com
+
+---
+
+## Focus Areas
+- AML transaction monitoring
+- Fraud detection with ML
+- Financial crime analytics
+- Graph-based risk detection
+- Real-time scoring systems
