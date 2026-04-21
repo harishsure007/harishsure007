@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=141A5A&height=160&section=header&text=Harish%20Sure&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AML%20%26%20Financial%20Crime%20ML%20Engineer&descAlignY=58&descSize=16&descColor=aab4d4" width="100%"/>
+# Harish Sure
+### AML & Financial Crime ML Engineer
 
-<br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hari--su-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-su)
 [![Email](https://img.shields.io/badge/Email-harisure054@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisure054@gmail.com)
@@ -144,7 +145,7 @@ Streaming pipeline for financial crime surveillance.
 
 | | |
 |---|---|
-| 🎓 **M.S. Computer Science** | Fitchburg State University · 2022 |
+| 🎓 **M.S. Computer Science** | Fitchburg State University · 2024 |
 | 📜 **Machine Learning Specialization** | Andrew Ng · Coursera |
 | 📜 **Generative AI for Fraud Detection & Compliance** | Coursera |
 
@@ -155,7 +156,5 @@ Streaming pipeline for financial crime surveillance.
 *Open to AML + ML roles in banking, fintech, and payments.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-su)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=141A5A&height=100&section=footer" width="100%"/>
 
 </div>
