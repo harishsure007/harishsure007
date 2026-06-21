@@ -1,43 +1,92 @@
-```md
-## 👋 Hi, I'm Harish Kumar Sure
+<h1 align="center">Hi 👋, I'm Harish Kumar Sure</h1>
+<h3 align="center">Network Engineer | System Administrator | Cloud & Data Center Enthusiast</h3>
 
-### Network Engineer | System Administrator | Cloud & Data Center Enthusiast
-
----
-
-### 👨‍💻 About Me
-- 🔭 Network Engineer with 3+ years of experience
-- 🌱 Learning AWS, Advanced Networking, Data Center Infrastructure
-- 🎯 Looking for Network Engineer / NOC / Data Center roles
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harishsure007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🚀 Skills
-- Cisco Routing & Switching
-- OSPF, BGP, VLAN, STP
-- VPN, Firewalls, ACL, NAT
-- AWS, Azure
-- Linux, Windows Server
-- SolarWinds, Wireshark
+## 👨‍💻 About Me
+
+* 🔭 Working as a **Network Engineer**
+* 🌱 Currently learning **AWS, Advanced Networking, Linux, Data Center Infrastructure**
+* 💼 3+ years of experience in networking and infrastructure
+* 🎯 Open to roles in:
+
+  * Network Engineering
+  * NOC Operations
+  * System Administration
+  * Data Center Operations
 
 ---
 
-### 📜 Certifications
-- CCNA
-- AWS Cloud Practitioner
-- Google IT Support
+## 🚀 Technical Skills
+
+### Networking
+
+* Cisco Routing & Switching
+* OSPF, BGP, EIGRP
+* VLAN, STP, HSRP
+* DNS, DHCP
+* VPN (IPSec, SSL VPN)
+* Firewalls, ACL, NAT
+
+### Tools
+
+* SolarWinds
+* Wireshark
+* ServiceNow
+* PuTTY
+
+### Cloud & Virtualization
+
+* AWS
+* Azure
+* VMware
+* Hyper-V
+
+### Operating Systems
+
+* Linux
+* Windows Server
+* macOS
 
 ---
 
-### 📊 GitHub Stats
+## 📜 Certifications
 
-![Stats](https://github-readme-stats.vercel.app/api?username=harishsure007&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsure007&layout=compact&theme=tokyonight)
+* CCNA
+* AWS Cloud Practitioner
+* Google IT Support Professional Certificate
 
 ---
 
-### 📫 Connect
-- Email: harishsure31@gmail.com
-- LinkedIn: Add LinkedIn URL
-```
+## 📂 Featured Projects
+
+* Enterprise Network Lab
+* OSPF & BGP Routing Lab
+* Firewall & ACL Lab
+* AWS VPC Networking Lab
+* VPN Implementation Lab
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishsure007&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishsure007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* Email: [harishsure31@gmail.com](mailto:harishsure31@gmail.com)
+* LinkedIn: Add your LinkedIn URL here
+
+⭐ Passionate about Networking, Cloud, Infrastructure, and Data Center Technologies
